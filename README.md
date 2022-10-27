@@ -25,6 +25,8 @@ Sebenarnya ada rumus lain dalam menghitung kelililng lingkaran dengan menggunaka
 
 **FLOWCHART MENGHITUNG LUAS DAN KELILING LINGKARAN**
 
+Berikut ini adalah contoh flowchart dari mulai hingga selesai
+
 `Mulai > Masukan jari-jari > hitung luas & keliling > Tampilkan luas dan keliling lingkaran > selesai`
 
 
